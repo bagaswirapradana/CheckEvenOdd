@@ -14,6 +14,7 @@ Jika diberikan suatu bilangan bulat (n) dan syarat berikut:
 
 Note: hanya untuk bilangan bulat positif Integer antara 1 - 100.
 
+
 ```java
 package id.bagaswirapradana.i2p;
 
@@ -43,8 +44,10 @@ public class Main {
 }
 ```
 
+
 *Test Case 1*
 ![Case 1](testcase1.png)
+
 
 *Test Case 2*
 ![Case 2](testcase2.png)
