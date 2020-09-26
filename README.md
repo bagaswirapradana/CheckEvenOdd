@@ -46,9 +46,11 @@ public class Main {
 
 
 *Test Case 1*
+
 ![Case 1](testcase1.png)
 
 
 *Test Case 2*
+
 ![Case 2](testcase2.png)
 
