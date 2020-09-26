@@ -3,7 +3,8 @@
 ##### SESSION 5 - Selection (OL) #3
 
 
-**Task**
+
+
 
 Jika diberikan suatu bilangan bulat (n) dan syarat berikut:
 - Jika n ganjil, cetak "AJAIB".
